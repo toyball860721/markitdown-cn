@@ -1,0 +1,24 @@
+{
+  "name": "markitdown-cn",
+  "version": "1.0.0",
+  "description": "MarkItDown 中文指南 - 微软出品的文档转 Markdown 工具",
+  "keywords": [
+    "markitdown",
+    "markdown",
+    "document-conversion",
+    "chinese",
+    "microsoft",
+    "autogen",
+    "llm"
+  ],
+  "author": "toyball <toyball860721@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toyball860721/markitdown-cn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toyball860721/markitdown-cn/issues"
+  },
+  "homepage": "https://github.com/toyball860721/markitdown-cn#readme"
+}
